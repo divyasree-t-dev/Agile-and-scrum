@@ -1,0 +1,105 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story point estimate),Custom field (Team),Custom field (Vulnerability),Parent,Parent key,Parent summary,Status category,Status category changed
+Claim Registration,ICP-1,10293,Epic,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:49 PM,18/Nov/26 9:49 PM,,,,0,Customers can initiate and submit insurance claims by entering incident information and saving incomplete claims.,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},blue,0|i001su:,,,,,,,,,To Do,18/Nov/26 9:49 PM
+Document Upload,ICP-2,10294,Epic,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:50 PM,18/Nov/26 9:50 PM,,,,0,"Customers can upload, view, remove and validate supporting documents.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},blue,0|i001t8:,,,,,,,,,To Do,18/Nov/26 9:50 PM
+Claim Tracking,ICP-3,10295,Epic,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:50 PM,18/Nov/26 9:50 PM,,,,0,"Customers can track claim status, view status history and identify pending actions.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},blue,0|i001te:,,,,,,,,,To Do,18/Nov/26 9:50 PM
+Settlement Notifications,ICP-4,10296,Epic,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:50 PM,18/Nov/26 9:50 PM,,,,0,"Customers receive claim confirmation, progress updates and settlement notifications.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},blue,0|i001tr:,,,,,,,,,To Do,18/Nov/26 9:50 PM
+Start a New Insurance Claim,ICP-5,10297,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:51 PM,18/Nov/26 10:05 PM,18/Nov/26 9:54 PM,,,0,"As a customer, I want to start a new insurance claim so that I can report an incident.
+
+*Acceptance Criteria:*
+
+* Customer must be logged in.
+* New Claim option must be available.
+* Claim registration form must open.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001tw:,Sprint 1 – Insurance Claims Po,,3.0,,,10293,ICP-1,Claim Registration,To Do,18/Nov/26 9:51 PM
+Enter Incident Details,ICP-6,10298,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:52 PM,18/Nov/26 10:05 PM,18/Nov/26 9:55 PM,,,0,"As a customer, I want to enter incident details so that the insurer understands my claim.
+*Acceptance Criteria:*
+
+* Customer can enter incident date.
+* Customer can select incident type.
+* Customer can enter incident location and description.
+* Mandatory fields must be validated.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001u8:,Sprint 1 – Insurance Claims Po,,5.0,,,10293,ICP-1,Claim Registration,To Do,18/Nov/26 9:52 PM
+Submit an Insurance Claim,ICP-7,10299,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:53 PM,18/Nov/26 10:05 PM,18/Nov/26 9:55 PM,,,0,"As a customer, I want to submit my claim so that the insurer can begin processing it.
+
+*Acceptance Criteria:*
+
+* All mandatory information must be valid.
+* Claim must be saved successfully.
+* Unique claim reference number must be generated.
+* Submission confirmation must be displayed.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001uc:,Sprint 1 – Insurance Claims Po,,5.0,,,10293,ICP-1,Claim Registration,To Do,18/Nov/26 9:53 PM
+Save an Incomplete Claim as a Draft,ICP-8,10300,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:53 PM,18/Nov/26 10:05 PM,18/Nov/26 9:55 PM,,,0,"As a customer, I want to save my incomplete claim as a draft so that I can complete it later.
+
+*Acceptance Criteria:*
+
+* Customer can save incomplete claim details.
+* Confirmation must be displayed.
+* Customer can reopen and continue the saved draft.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001un:,Sprint 1 – Insurance Claims Po,,3.0,,,10293,ICP-1,Claim Registration,To Do,18/Nov/26 9:53 PM
+Upload Supporting Documents,ICP-9,10301,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:56 PM,18/Nov/26 10:06 PM,,,,0,"As a customer, I want to upload supporting documents so that I can provide evidence for my claim.
+
+*Acceptance Criteria:*
+
+* Customer can select supporting files.
+* Uploaded documents must be associated with the correct claim.
+* Upload confirmation must be displayed.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001uq:,Sprint 1 – Insurance Claims Po,,3.0,,,10294,ICP-2,Document Upload,To Do,18/Nov/26 9:56 PM
+View and Remove Uploaded Documents,ICP-10,10302,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:57 PM,18/Nov/26 10:04 PM,,,,0,"As a customer, I want to view and remove uploaded documents so that I can manage my claim attachments.
+
+*Acceptance Criteria:*
+
+* Customer can view uploaded documents.
+* Customer can remove an attachment.
+* Updated attachment list must be displayed.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001v0:,,,3.0,,,10294,ICP-2,Document Upload,To Do,18/Nov/26 9:57 PM
+Validate Document Type and Size,ICP-11,10303,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:57 PM,18/Nov/26 10:04 PM,,,,0,"As a customer, I want the portal to validate document type and size so that only supported files are uploaded.
+
+*Acceptance Criteria:*
+
+* Supported file types must be accepted.
+* Unsupported file types must be rejected.
+* Files exceeding the configured size limit must be rejected.
+* Appropriate error messages must be displayed.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001v2:,,,2.0,,,10294,ICP-2,Document Upload,To Do,18/Nov/26 9:57 PM
+View Current Claim Status,ICP-12,10304,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:59 PM,18/Nov/26 10:00 PM,,,,0,"As a customer, I want to view my current claim status so that I know the progress of my claim.
+
+*Acceptance Criteria:*
+
+* Customer can view their submitted claims.
+* Current status must be displayed.
+* Only authorized customers can view their own claims.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001vb:,,,3.0,,,10295,ICP-3,Claim Tracking,To Do,18/Nov/26 9:59 PM
+View Claim Status History,ICP-13,10305,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:59 PM,18/Nov/26 10:00 PM,,,,0,"As a customer, I want to view the claim status history so that I can understand previous updates.
+
+*Acceptance Criteria:*
+
+* Previous claim status updates must be displayed.
+* Updates must be arranged chronologically.
+* Relevant update dates must be displayed.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001vc:,,,5.0,,,10295,ICP-3,Claim Tracking,To Do,18/Nov/26 9:59 PM
+View Pending Actions and Missing Information,ICP-14,10306,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 9:59 PM,18/Nov/26 10:00 PM,,,,0,"As a customer, I want to view pending actions and missing information so that I can respond to insurer requests.
+
+*Acceptance Criteria:*
+
+* Pending actions must be displayed.
+* Missing information must be identified.
+* Customer must be able to understand what action is required.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001vk:,,,5.0,,,10295,ICP-3,Claim Tracking,To Do,18/Nov/26 9:59 PM
+Receive Claim Submission Confirmation,ICP-15,10307,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 10:00 PM,18/Nov/26 10:02 PM,,,,0,"As a customer, I want to receive a claim submission confirmation so that I know my claim was received.
+
+*Acceptance Criteria:*
+
+* Confirmation must be generated after successful submission.
+* Claim reference number must be included.
+* Confirmation must be delivered through the configured notification channel.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001vz:,,,2.0,,,10296,ICP-4,Settlement Notifications,To Do,18/Nov/26 10:00 PM
+Receive Claim Status Notifications,ICP-16,10308,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Medium,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 10:01 PM,18/Nov/26 10:02 PM,,,,0,"As a customer, I want to receive claim status notifications so that I stay informed about progress.
+
+*Acceptance Criteria:*
+
+* Notification must be triggered by relevant status updates.
+* Updated claim status must be included.
+* Notification must be sent through the configured channel.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001w6:,,,3.0,,,10296,ICP-4,Settlement Notifications,To Do,18/Nov/26 10:01 PM
+Receive Settlement Notification,ICP-17,10309,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,High,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 10:01 PM,18/Nov/26 10:02 PM,,,,0,"As a customer, I want to receive a settlement notification so that I know the outcome of my claim.
+
+*Acceptance Criteria:*
+
+* Customer must be notified of the settlement decision.
+* Settlement details must be included where applicable.
+* Notification must be sent through the configured channel.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001wk:,,,3.0,,,10296,ICP-4,Settlement Notifications,To Do,18/Nov/26 10:02 PM
+Manage Notification Preferences,ICP-18,10310,Story,To Do,ICP,Insurance Claims Portal,software,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,Low,,,,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,18/Nov/26 10:02 PM,18/Nov/26 10:02 PM,,,,0,"As a customer, I want to manage notification preferences so that I can choose how I receive updates.
+
+*Acceptance Criteria:*
+
+* Customer can view notification preferences.
+* Customer can select available notification channels.
+* Updated preferences must be saved.",,Divyasree T,712020:923a9298-8336-45ad-9893-5ea87d1e02b6,,,,,,,,,{},,0|i001wq:,,,3.0,,,10296,ICP-4,Settlement Notifications,To Do,18/Nov/26 10:02 PM
